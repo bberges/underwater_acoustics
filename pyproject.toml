@@ -13,7 +13,8 @@ description = "A package for underwater acoustic wave calculations"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
-    "numpy"
+    "numpy",
+	"math"
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
